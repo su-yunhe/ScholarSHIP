@@ -1,6 +1,18 @@
-# demo
+# ScholarSHIP 学术成果分享平台
+> developed by 10 WALNUTS 十个核桃
 
-This template should help get you started developing with Vue 3 in Vite.
+An academic research platform using Vue3+Django. 
+
+BUAA 《软件系统分析与设计》课程设计。
+
+![](pics/intro.png)
+![](pics/search.png)
+![](pics/academic.png)
+![](pics/personalcenter.png)
+![](pics/scholar.png)
+![](pics/highlevelsearch.png)
+![](pics/analysis.png)
+![](pics/analysis2.png)
 
 ## Recommended IDE Setup
 
